@@ -1,0 +1,31 @@
+_repo: A-Quantitative-Study-of-the-Nocturnal-Migration-of-Birds_37894
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37894-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Lowery, George H., Jr.
+    alias: Lowery, George Hines, Jr.
+    birthdate: 1913
+    deathdate: 1978
+    gutenberg_agent_id: '37077'
+    url: http://www.gutenberg.org/2009/agents/37077
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Birds
+gutenberg_issued: '2011-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37894'
+  lccn: '51062488'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Birds -- Migration'
+title: A Quantitative Study of the Nocturnal Migration of Birds
+url: http://www.gutenberg.org/ebooks/37894
